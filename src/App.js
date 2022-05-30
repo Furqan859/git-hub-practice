@@ -10,6 +10,7 @@ function App() {
 <h5>Menu</h5>
 <h5>Contact</h5>
 <h5>About</h5>
+<h5>navbar</h5>
 </navbar>
 
   
